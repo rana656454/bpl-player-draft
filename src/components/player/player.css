@@ -1,0 +1,38 @@
+.player-container{
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(179, 172, 172);
+   
+}
+
+.player-container img{
+    height:300px;
+    width:200px;
+    margin-right: 50px;
+}
+
+.player-details{
+    line-height:7px;
+    margin-right: 20px;
+    padding: 10px;
+    width:450px;
+    border-right:2px solid rgb(177, 225, 240);
+    font-size:15px;
+    color: rgb(67, 74, 77);
+}
+.hare-price{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.hare-btn{
+    font-weight: bold;
+}
+.pname{
+    color: rgb(149, 189, 248);
+    font-weight: bold;
+}
+.hare-price h3{
+    color: rgb(23, 109, 238);;
+}
